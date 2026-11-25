@@ -141,3 +141,19 @@ Processed CSV data are "processed_data/encoded.csv".
 Jupyter Notebooks can run the tests again. They are ordered as they were intended to be used (from preprocessing to more and more complex models).
 
 An overview of the main results is in "Results.docx".
+
+## Requirements
+Python 3.12.12
+
+## Installation
+* Clone the repository: 
+    * git clone https://github.com/daniele-spd/regression_students_score.git
+* Navigate to the project directory: 
+    * cd REPOSITORY
+* (Optional but recommended) Create a virtual environment: 
+    * python -m venv venv
+* Activate the environment: 
+    * Windows: venv\Scripts\activate 
+    * Linux / macOS: source venv/bin/activate
+* Install the dependencies: 
+    * pip install -r requirements.txt
